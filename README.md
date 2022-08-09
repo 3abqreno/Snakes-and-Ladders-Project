@@ -17,7 +17,10 @@ now comes the fun part where you play with your friend and experience the map yo
 you can roll the dice to play or use the fixed dice and choose a number of your choice if you want to cheat :)
 
 
-##Modularity
+## Modularity
+
+
+
 ![Screenshot 2022-08-09 151624](https://user-images.githubusercontent.com/102177769/183656399-08d4b976-2a47-4ea5-b2d2-7010d8691622.png)
 
 
