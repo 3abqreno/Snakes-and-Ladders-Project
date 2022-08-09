@@ -20,9 +20,14 @@ you can roll the dice to play or use the fixed dice and choose a number of your 
 ##Modularity
 ![Screenshot 2022-08-09 151624](https://user-images.githubusercontent.com/102177769/183656399-08d4b976-2a47-4ea5-b2d2-7010d8691622.png)
 
+
+
+
 we focused on modularity and easy to refactor code that's why you can easily 
 change the size or the player count with just one line of code
 
 ![Screenshot 2022-08-09 150806](https://user-images.githubusercontent.com/102177769/183656556-fc370584-a023-4c8a-b57f-2cef7cf7e1e7.png)
+
+
 
 in this example the height/width was set to 12 and the game now has 144 cells instead of a 100 awesome!!
